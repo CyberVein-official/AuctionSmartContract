@@ -14,4 +14,4 @@ c.Script test
 
 This bounty reward is 200USDT
 
-
+If you have any questions, please write to cybervin's official website mailbox:swapinfo@cybervein.org
