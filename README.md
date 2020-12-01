@@ -12,4 +12,4 @@ c.Script test
 
 This bounty reward is 200USDT
 
-We provide you with the telegram bounty program discussion group：https://t.me/joinchat/OIb2cEwaHy4pL4VcJQIazw
+
