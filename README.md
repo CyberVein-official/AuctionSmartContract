@@ -10,7 +10,7 @@ CROSS is the world's first decentralized NFT issuance & trading platform with fu
 As the engine of Data value-driven, DAVE can combine a series of big data financial derivatives by itself, and hedge various financial risks through the CROSS automated algorithm. We need to realize the long-term value of data transactions through a more diverse digital artworks and big data financial derivatives and create an unprecedented big data NFT issuance & transaction ecology.
 
 
-## Developmentdirection:
+## Development direction:
 
 We will have a simple public auction contract. You can use this as a reference to create more types of auction models and produce more auction smart contracts, making our CROSS more interesting and interactive!
 
