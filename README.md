@@ -11,11 +11,11 @@ Background: As the engine of big data quantitative valuation, DAVE can combine a
 Development direction: We will have a simple public auction contract. You can use this as a reference to create more types of auction models and output more auction smart contracts, making our CROSS more interesting and interactive!
 
 CROSS Auction Smart Contract  
-- Guide to the auction（拍卖模式指南）
+- Guide to the auction
 
-- Solidity code and relevant documentation（Solidity代码及相关documentation）
+- Solidity code and relevant documentation
 
-- Script test（测试script）
+- Script test
 
 This bounty reward is 200USDT
 
