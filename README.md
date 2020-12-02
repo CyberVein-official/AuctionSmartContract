@@ -10,6 +10,8 @@ Background: As the engine of big data quantitative valuation, DAVE can combine a
 
 Development direction: We will have a simple public auction contract. You can use this as a reference to create more types of auction models and output more auction smart contracts, making our CROSS more interesting and interactive!
 
+This warehouse provides a simple auction contract for your reference
+
 CROSS Auction Smart Contract  
 - Guide to the auction
 
