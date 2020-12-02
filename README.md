@@ -1,20 +1,20 @@
 
-# `CROSS（Auction）`
+## `CROSS（Auction）`
 
-# Introduction:
+## Introduction:
 
 CROSS is the world's first decentralized NFT issuance & trading platform with full-category financial derivatives (CeFi+DeFi) revenue. If big data holders and producers all over the world want to conduct business in the big data sapce, CROSS can help them realize by generating the financial derivatives.
 
-# Background:
+## Background:
 
 As the engine of Data value-driven, DAVE can combine a series of big data financial derivatives by itself, and hedge various financial risks through the CROSS automated algorithm. We need to realize the long-term value of data transactions through a more diverse digital artworks and big data financial derivatives and create an unprecedented big data NFT issuance & transaction ecology.
 
 
-# Developmentdirection:
+## Developmentdirection:
 
 We will have a simple public auction contract. You can use this as a reference to create more types of auction models and produce more auction smart contracts, making our CROSS more interesting and interactive!
 
-# CROSSAuctionSmartContract:
+## CROSSAuctionSmartContract:
 
 We will have a simple public auction contract. You can use this as a reference to create more types of auction models and produce more auction smart contracts, making our CROSS more interesting and interactive!
 
@@ -25,16 +25,16 @@ We will have a simple public auction contract. You can use this as a reference t
 ```
 This bounty reward is `200USDT`
 
-# Contributors:
+## Contributors:
 
 Contributors who are individuals must be aged 18 or over. Each contributor represents and undertakes to comply with all local and relevant laws. CyberVein disclaims all liability (to the fullest extent possible at law) for any liabilities that might arise.
 
 
-# CyberVein reserves the right to:
+## CyberVein reserves the right to:
 
 We will have a simple public auction contract. You can use this as a reference to create more types of auction models and produce more auction smart contracts, making our CROSS more interesting and interactive!
 
-# CROSSAuctionSmartContract:
+## CROSSAuctionSmartContract:
 
 We will have a simple public auction contract. You can use this as a reference to create more types of auction models and produce more auction smart contracts, making our CROSS more interesting and interactive!
 
