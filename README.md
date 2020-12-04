@@ -23,7 +23,7 @@ We will have a simple public auction contract. You can use this as a reference t
 - Solidity code and relevant documentation
 - Script test
 ```
-This bounty reward is `200USDT` equivalent CVT
+This bounty reward is 200USD equivalent CVT
 
 ## Contributors:
 
