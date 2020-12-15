@@ -34,9 +34,6 @@ Contributors who are individuals must be aged 18 or over. Each contributor repre
 
 We will have a simple public auction contract. You can use this as a reference to create more types of auction models and produce more auction smart contracts, making our CROSS more interesting and interactive!
 
-## CROSSAuctionSmartContract:
-
-We will have a simple public auction contract. You can use this as a reference to create more types of auction models and produce more auction smart contracts, making our CROSS more interesting and interactive!
 
 ```
 - request the full name and contact details of the contributor;
