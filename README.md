@@ -14,10 +14,6 @@ As the engine of Data value-driven, DAVE can combine a series of big data financ
 
 We will have a simple public auction contract. You can use this as a reference to create more types of auction models and produce more auction smart contracts, making our CROSS more interesting and interactive!
 
-## CROSSAuctionSmartContract:
-
-We will have a simple public auction contract. You can use this as a reference to create more types of auction models and produce more auction smart contracts, making our CROSS more interesting and interactive!
-
 ```
 - Guide to the auction
 - Solidity code and relevant documentation
@@ -28,11 +24,6 @@ This bounty reward is 200USD equivalent CVT
 ## Contributors:
 
 Contributors who are individuals must be aged 18 or over. Each contributor represents and undertakes to comply with all local and relevant laws. CyberVein disclaims all liability (to the fullest extent possible at law) for any liabilities that might arise.
-
-
-## CyberVein reserves the right to:
-
-We will have a simple public auction contract. You can use this as a reference to create more types of auction models and produce more auction smart contracts, making our CROSS more interesting and interactive!
 
 
 ```
